@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jannus
 - 👀 I’m interested in Minecraft en coding
 - 🌱 I’m currently learning on ROC-Nijmegen at the college for software development 
-- 💞️ I’m looking to collaborate on -
+<!-- - 💞️ I’m looking to collaborate on - -->
 - 📫 How to reach me -
 
 <!---
